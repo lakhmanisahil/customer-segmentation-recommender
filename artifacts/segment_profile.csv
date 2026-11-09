@@ -1,0 +1,4 @@
+Segment,SegmentName,Customers,Recency,Frequency,Monetary,AvgOrderValue,UniqueProducts,Tenure,ShareOfCustomers,ShareOfRevenue
+A,Champions,1115,23.8,10.4,6235.8,736.2,143.2,268.7,0.257,0.782
+B,Budget-Conscious,1584,73.8,3.2,863.3,285.7,46.1,165.3,0.365,0.154
+C,At-Risk,1639,157.3,1.1,345.9,328.4,20.8,2.7,0.378,0.064

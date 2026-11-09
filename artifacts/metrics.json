@@ -1,0 +1,58 @@
+{
+  "dataset_rows_after_cleaning": 392692,
+  "customers": 4338,
+  "products": 3665,
+  "date_range": [
+    "2010-12-01",
+    "2011-12-09"
+  ],
+  "features": [
+    "Recency",
+    "Frequency",
+    "Monetary",
+    "AvgOrderValue",
+    "UniqueProducts",
+    "Tenure"
+  ],
+  "pca_components": 4,
+  "pca_variance_explained": 0.959,
+  "n_clusters": 3,
+  "elbow_k": 4,
+  "best_silhouette_k": 2,
+  "silhouette": 0.2839,
+  "cluster_to_segment": {
+    "2": "A",
+    "1": "B",
+    "0": "C"
+  },
+  "recommender_evaluation": {
+    "split_date": "2011-09-01",
+    "customers_evaluated": 1887,
+    "n": 10,
+    "segment_hit_rate": 0.275,
+    "global_hit_rate": 0.2591,
+    "segment_precision": 0.0377,
+    "global_precision": 0.0341,
+    "precision_lift_pct": 10.6,
+    "by_segment": [
+      {
+        "Segment": "A",
+        "customers": 649,
+        "segment_hit_rate": 0.2496,
+        "global_hit_rate": 0.2496
+      },
+      {
+        "Segment": "B",
+        "customers": 678,
+        "segment_hit_rate": 0.1873,
+        "global_hit_rate": 0.236
+      },
+      {
+        "Segment": "C",
+        "customers": 560,
+        "segment_hit_rate": 0.4107,
+        "global_hit_rate": 0.2982
+      }
+    ]
+  }
+}
