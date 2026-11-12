@@ -148,7 +148,7 @@ Python · pandas · NumPy · scikit-learn (StandardScaler, PCA, KMeans, silhouet
 
 ## Author
 
-**Your Name** — [GitHub](https://github.com/<your-username>) · [LinkedIn](https://linkedin.com/in/<your-profile>)
+**Sahil Lakhmani** — [GitHub](https://github.com/lakhmanisahil>) · [LinkedIn](https://linkedin.com/in/lakhmani-sahil)
 
 ## License
 
