@@ -95,7 +95,7 @@ python train.py --skip-eval                   # faster run without the recommend
 
 ## Dashboard
 
-`streamlit run app.py` opens five pages:
+`streamlit run app.py` opens five pages(....currrently in progress, it will be updated soon........):
 
 1. **Overview** — key metrics, segment profiles, strategy per segment, evaluation results
 2. **Clusters (3D)** — rotatable PCA scatter plot + Elbow/Silhouette charts
